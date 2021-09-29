@@ -1,0 +1,46 @@
+body{
+    background-size: cover;
+}
+
+.heading{
+    font-size: 30px;
+    width: 100%;
+    margin: 0px;
+    margin-bottom: 0px;
+    font-family: 'Bonheur Royale', cursive;
+    background-color: goldenrod;
+}
+
+input{
+    height: 30px;
+    width: 300px;
+    font-family: 'Bonheur Royale', cursive;
+    font-size: 30px;
+    margin:1px;
+}
+
+#start,#status,#number_of_object{
+    font-size: 30px;
+    font-family: 'Bonheur Royale', cursive;
+    background-color: goldenrod;
+    margin: 1px;
+}
+
+.copy_right_footer{
+    position: absolute;
+    bottom: 0px;
+    width: 100%;
+    line-height: 2;
+    text-align: center;
+    color: #000000;
+    background-color: goldenrod;
+    font-family: 'Bonheur Royale', cursive;
+    font-size: 25px;
+}
+
+canvas{
+    border:2px solid goldenrod;
+    border-radius: 0px;
+    margin-top: 70px;
+    box-shadow: 10px 10px 10px goldenrod;
+}
